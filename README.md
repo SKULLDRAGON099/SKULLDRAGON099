@@ -1,4 +1,6 @@
-### Hi there 👋
+>### Hi there 👋
+I'm Aastik Yadav, Junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
+Front-end | ML
 
 <!--
 **SKULLDRAGON099/SKULLDRAGON099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
