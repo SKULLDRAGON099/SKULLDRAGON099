@@ -3,7 +3,7 @@
 
 I'm Aastik Yadav, Junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
 
-Skills: REACT / JS / HTML / CSS / ML / SQL
+Skills: REACT | JS | HTML | CSS | IoT | ML | SQL
 
 - 🔭 I’m currently working on Front-end development using React  
 - 🌱 I’m currently learning React and ML 
