@@ -1,13 +1,14 @@
-### Hi there 👋, Aastik Yadav
+
 ![](https://github.com/SKULLDRAGON099/banner/blob/main/Dark%20Green%20Simple%20Motivation%20Quotes%20LinkedIn%20Banner%20(1).png?raw=true)
 
-I'm Aastik Yadav, Junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
+### Hi there 👋, Aastik Yadav
+, Junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
 
 Skills: REACT / JS / HTML / CSS / ML / SQL
 
-- 🔭 I’m currently working on Front-end development using React  
-- 🌱 I’m currently learning React and ML 
-- 👯 I’m looking to collaborate on Web-development projects, Machine learning projects 
+- 🔭 I’m currently working on Front-end development using React. 
+- 🌱 I’m currently learning React and ML.
+- 👯 I’m looking to collaborate on Web-development, and Machine learning projects.
 - 📫 How to reach me:  ayadav1_be20@thapar.edu 
 
 
