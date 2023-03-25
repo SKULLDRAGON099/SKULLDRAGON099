@@ -1,8 +1,7 @@
 
 ![](https://github.com/SKULLDRAGON099/banner/blob/main/Dark%20Green%20Simple%20Motivation%20Quotes%20LinkedIn%20Banner%20(1).png?raw=true)
 
-### Hi there 👋, Aastik Yadav
-, Junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
+ Hi there 👋,I'm Aastik Yadav, junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
 
 Skills: REACT / JS / HTML / CSS / ML / SQL
 
