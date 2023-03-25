@@ -1,4 +1,4 @@
-### Hi there 👋, Aastik Yadav
+
 ![](https://github.com/SKULLDRAGON099/banner/blob/main/Screenshot%202023-03-25%20132151.png?raw=true)
 
 I'm Aastik Yadav, Junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
