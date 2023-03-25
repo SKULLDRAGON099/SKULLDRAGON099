@@ -1,18 +1,21 @@
->### Hi there 👋
+### Hi there 👋, Aastik Yadav
+![](https://github.com/SKULLDRAGON099/banner/blob/main/Dark%20Green%20Simple%20Motivation%20Quotes%20LinkedIn%20Banner%20(1).png?raw=true)
+
 I'm Aastik Yadav, Junior at Thapar University in ELectrical and Computers major. Currently learning React framework and Machine Learning.
-Front-end | ML
 
-<!--
-**SKULLDRAGON099/SKULLDRAGON099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS / ML / SQL
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Front-end development using React  
+- 🌱 I’m currently learning React and ML 
+- 👯 I’m looking to collaborate on Web-development projects, Machine learning projects 
+- 📫 How to reach me:  ayadav1_be20@thapar.edu 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SKULLDRAGON099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aastik-yadav-cauldron/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKULLDRAGON099)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKULLDRAGON099&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SKULLDRAGON099)  
+
