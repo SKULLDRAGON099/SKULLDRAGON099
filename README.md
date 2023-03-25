@@ -11,11 +11,11 @@ Skills: REACT / JS / HTML / CSS / IoT / ML / SQL
 - 📫 How to reach me:  ayadav1_be20@thapar.edu 
 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png)' alt='github' height='40'>](https://github.com/SKULLDRAGON099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aastik-yadav-cauldron/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SKULLDRAGON099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aastik-yadav-cauldron/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKULLDRAGON099)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKULLDRAGON099&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKULLDRAGON099&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SKULLDRAGON099)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SKULLDRAGON099)   -->
 
